@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>38.jpg</filename>
+	<path>C:\Users\Devyani\Desktop\Solar Mobil\Cones model\images\38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>949</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>24</ymin>
+			<xmax>768</xmax>
+			<ymax>1170</ymax>
+		</bndbox>
+	</object>
+</annotation>
